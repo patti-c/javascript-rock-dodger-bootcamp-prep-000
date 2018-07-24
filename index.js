@@ -65,8 +65,6 @@ function createRock(x) {
       ROCKS.shift();
     }
     
-    
-
   }
   
   moveRock();
